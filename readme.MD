@@ -1,3 +1,11 @@
-# Shell script
-## Here  is some linux script which can help you to automate your task
-### AWS Resources = this shell script help you to describe the information about your aws resource you just have to mansions the region and resources name 
+# Shell Scripts
+
+## Overview
+
+This repository contains various shell scripts related to DevOps that are designed to automate tasks and simplify workflows.
+
+## Scripts
+
+### AWS Resources
+
+This script provides detailed information about your AWS resources. To use it, specify the region and the names of the resources you want to describe.
